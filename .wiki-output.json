@@ -7,6 +7,7 @@
     "site/data/8976dfb7ddedf7519331d367a086ae0722f53e5ed59d425f2bac4e0b7c6fe461.json",
     "site/data/b5cb6d6c51904411be19931ef5fc605d35637aaf02c72f7c7009db7c55e4c322.json",
     "site/data/be5e2caa2ce557dadbbf14746190be6ae33c9d1e5d5ba235673f51012b2f9352.json",
+    "site/objects/1586ad3ab0d95ec67a94d84d6b38a4f297b5ef2e104a522089d88d7111251420.json",
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json",
     "site/objects/407edc3e30a1b77b3373dd5a624eae328f48c4e871ed4f51daeec9934ce49e85.json",
     "site/objects/563ac22778db981d608ead1de11cd5f36257f6e483ff67daab01b04b1b1f3339.json",
@@ -24,6 +25,8 @@
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json",
+    "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js",
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
     "site/runtime/a268387a03c52038a83ea3102ba51e54ecdd9cd69d0aeb28a971db418cfd5079/reader.js",
@@ -37,19 +40,19 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "a884281abadafbbd637864f534acf385e2bc4cc49bda1cb3877c9b2cc61e1919"
+      "sha256": "ec7c635edcff43cfa7121ec355508a4dec6bda4dc02b85e98836be406823a1ee"
     },
     "reference/index.md": {
       "bytes": 292,
-      "sha256": "7662c791da07226d5d0a0bf2aa13b442038bc8215b6a057ed0b7df9b5f046735"
+      "sha256": "f2653cab87955f75d9550b0ece933671e20393fe88ee46d73edcad50f5bec349"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "f7e2ffb9fa88f8986b7bf4dad54677729b00f4466e20698411edef035ec85b09"
+      "sha256": "8dd676f3dc9da4456b68c5d38aaf1301a903f4e3eb5ba1608d5ac9c84e2c8857"
     },
     "reference/spawn-rule/0001.md": {
       "bytes": 6368,
-      "sha256": "0dca61fdb698e6c9ef4030d63a3251480033a8abd84f46fac522ea8ab2d98447"
+      "sha256": "4ed616b9d2c21f4e4c031bc1b7ac29a75b908ad134b1dc12b04c25a6fda8c784"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -99,6 +102,10 @@
       "bytes": 1410,
       "sha256": "f3e6df814b11e478fc3441195087dc4482e91e1dea54fa7fb00cc9cee64f99f9"
     },
+    "site/objects/1586ad3ab0d95ec67a94d84d6b38a4f297b5ef2e104a522089d88d7111251420.json": {
+      "bytes": 656,
+      "sha256": "1586ad3ab0d95ec67a94d84d6b38a4f297b5ef2e104a522089d88d7111251420"
+    },
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json": {
       "bytes": 2323,
       "sha256": "37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b"
@@ -128,8 +135,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 6567,
-      "sha256": "67d6fb7332926d39f6984a247bb9bcdb83b40501f512558e3849b7addb82335d"
+      "bytes": 6789,
+      "sha256": "cc403f2728cfc15d9ddef1c591b11e0c8e6a9fe4f75ae1f09643b0aa1f21d6c4"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4995,
@@ -179,6 +186,14 @@
       "bytes": 4995,
       "sha256": "ce7270f6ee32cf0e9856f54c25d8de29ef9049c14c55a2fce778307635f7bfc2"
     },
+    "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json": {
+      "bytes": 6789,
+      "sha256": "cc403f2728cfc15d9ddef1c591b11e0c8e6a9fe4f75ae1f09643b0aa1f21d6c4"
+    },
+    "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js": {
+      "bytes": 26665,
+      "sha256": "04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13"
+    },
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js": {
       "bytes": 23601,
       "sha256": "1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698"
@@ -217,7 +232,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9",
+  "release_id": "e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
