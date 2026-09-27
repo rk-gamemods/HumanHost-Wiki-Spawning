@@ -11,6 +11,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -22,19 +23,19 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "18ab9dd23977d4fa6e2ca7c80b6a2b6112883b978df4c1d533775b74b21b6a2e"
+      "sha256": "1868b23fd9c9651649178baafc2b9207c6b1b98264d7daf1b1b342bb762a7176"
     },
     "reference/index.md": {
       "bytes": 292,
-      "sha256": "5616e9024f7b29cfff9e6b524526bd0222c7d05794ce9ec8be0c4d39f5fbcdb8"
+      "sha256": "4a426c339da9ccc25727188eca0382c4fb3d22b231fd297e71164e9b767d9e26"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "084d2232a42f7c30353ba14d4b4f5ea8719da71060a2b1c12be4b413b335fa24"
+      "sha256": "81db65856a25883d3c52e931df19e7ab031e467c4dd294d1924dd121059a72c9"
     },
     "reference/spawn-rule/0001.md": {
       "bytes": 6368,
-      "sha256": "a096dfd04f95b5228bf5c83ea1dd589d8f9957b271d2721b62612f70b0e5b48a"
+      "sha256": "d710e59300c8670bfa73c32782cca350a2fb89e7115108114b86c4ab19c4a691"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -98,7 +99,7 @@
     },
     "site/reader.json": {
       "bytes": 5068,
-      "sha256": "ecb7cdcf44c1e64c6eb2132592a569667c837ff79fa6ffd21555e0a3c46a98da"
+      "sha256": "be4025f1295b18ce88a4dcf4504c6e001baf93cbf4d84b9d1252de4dcdb4daaf"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4995,
@@ -111,6 +112,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5043,
       "sha256": "2caba8f66b11cff647a84027a5fae84f399497070225b4a2fac83fc6ec6ee176"
+    },
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
+      "bytes": 5068,
+      "sha256": "be4025f1295b18ce88a4dcf4504c6e001baf93cbf4d84b9d1252de4dcdb4daaf"
     },
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json": {
       "bytes": 5068,
@@ -142,7 +147,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c",
+  "release_id": "84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
