@@ -1,8 +1,8 @@
 # Spawning and populations reference
 
-Release: `dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6`.
+Release: `fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523`.
 
-Selected extracted facts. Gameplay verification and complete coverage remain unfinished.
+Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
 - [population/0001.md](population/0001.md)
 - [spawn-rule/0001.md](spawn-rule/0001.md)

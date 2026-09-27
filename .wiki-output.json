@@ -20,6 +20,7 @@
     "site/objects/07ae1c8c8593a7bc2b4efdf2602009e0b9b910a3c7f19f3ff9b485be00e86d5d.json",
     "site/objects/1586ad3ab0d95ec67a94d84d6b38a4f297b5ef2e104a522089d88d7111251420.json",
     "site/objects/276fe800fe6a50437837b73ca8d7660c32fb9758d77093fcd45924a63c6b77f4.json",
+    "site/objects/27b651c0f2677259d4211c45f9877315cf757f8e4c97d6947b35d43a53d986e3.json",
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json",
     "site/objects/407edc3e30a1b77b3373dd5a624eae328f48c4e871ed4f51daeec9934ce49e85.json",
     "site/objects/563ac22778db981d608ead1de11cd5f36257f6e483ff67daab01b04b1b1f3339.json",
@@ -51,6 +52,7 @@
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/releases/dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6.json",
     "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json",
+    "site/releases/fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523.json",
     "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js",
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -65,19 +67,19 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "7c130c7826815878fcd8b1fbd51c9dc20a57ebbe3cf7f79387cfa82873b9035b"
+      "sha256": "73d7f0528abe5b6c620d1b2a56781c7168509daad66e8d0fedde197a181846b0"
     },
     "reference/index.md": {
-      "bytes": 292,
-      "sha256": "935bd3ed7947b4f8a833caece56a6cf17347b93dd118b5d2d0925278408282b7"
+      "bytes": 302,
+      "sha256": "cc92e3d5e4e195fbfe40e4b048c2bef540febca07b42f62ce1ec2584efc5ccd3"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "bf9a57e60024600a5999f22abf4306bb2a63bfb23519b0ce3b7af5c0bc55c883"
+      "sha256": "ec576e9fa9906909a89e780d115450af8dc8189fa9b13a0b216e43ddef369fd6"
     },
     "reference/spawn-rule/0001.md": {
       "bytes": 7896,
-      "sha256": "0572090515069d0b48d8f66a4676b1a6e66084af2173d4d6917e98783309004d"
+      "sha256": "485dfd447e7875d7282a2ddf2a24680fa7dd4d94b9f21c93c84263c23b2204e0"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -179,6 +181,10 @@
       "bytes": 3171,
       "sha256": "276fe800fe6a50437837b73ca8d7660c32fb9758d77093fcd45924a63c6b77f4"
     },
+    "site/objects/27b651c0f2677259d4211c45f9877315cf757f8e4c97d6947b35d43a53d986e3.json": {
+      "bytes": 656,
+      "sha256": "27b651c0f2677259d4211c45f9877315cf757f8e4c97d6947b35d43a53d986e3"
+    },
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json": {
       "bytes": 2323,
       "sha256": "37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b"
@@ -233,7 +239,7 @@
     },
     "site/reader.json": {
       "bytes": 7279,
-      "sha256": "3daf8d2c6f162689c0541ead0472c9424508458decaa9f119a12d6e4413e608a"
+      "sha256": "532cc2ee82bed3aed628014cf237b8dfc069b3e41cc505bade1c7b7c8a19a99e"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6790,
@@ -315,6 +321,10 @@
       "bytes": 6789,
       "sha256": "cc403f2728cfc15d9ddef1c591b11e0c8e6a9fe4f75ae1f09643b0aa1f21d6c4"
     },
+    "site/releases/fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523.json": {
+      "bytes": 7279,
+      "sha256": "532cc2ee82bed3aed628014cf237b8dfc069b3e41cc505bade1c7b7c8a19a99e"
+    },
     "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js": {
       "bytes": 26665,
       "sha256": "04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13"
@@ -357,7 +367,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6",
+  "release_id": "fc2b41014d83207414a99b384c1712cf27a027c1ba413a46bde614505175c523",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
