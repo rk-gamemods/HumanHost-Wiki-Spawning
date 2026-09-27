@@ -1,20 +1,36 @@
 {
+  "capacity_objects": [
+    "site/data/438fe1d9b902d1ae8bed2a1176f41623176a9a22ec349843746c986219e6891a.json",
+    "site/data/4f5d3e1fd58ee345c81b76eb9065054b390c9188b390e8a538e913eb1186dc47.json",
+    "site/data/5e44a3348ec00cef16df2999a5d5ba38c659ed92c0db702ab756c1fc2b15ea83.json",
+    "site/data/8976dfb7ddedf7519331d367a086ae0722f53e5ed59d425f2bac4e0b7c6fe461.json",
+    "site/data/b5cb6d6c51904411be19931ef5fc605d35637aaf02c72f7c7009db7c55e4c322.json",
+    "site/data/be5e2caa2ce557dadbbf14746190be6ae33c9d1e5d5ba235673f51012b2f9352.json",
+    "site/objects/407edc3e30a1b77b3373dd5a624eae328f48c4e871ed4f51daeec9934ce49e85.json",
+    "site/objects/563ac22778db981d608ead1de11cd5f36257f6e483ff67daab01b04b1b1f3339.json",
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
+  ],
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "ad612229cefd953ef0ccd2dcad265b8e9f0602f6f98618e06fa372c65d2bce02"
+      "sha256": "6ee101c572c08d6e60f884044655d83d993c8e0c415605bd9ab3dc663d3e40dd"
     },
     "reference/index.md": {
       "bytes": 292,
-      "sha256": "4bd7ee15a16e5c43f9436424004c82749091053e104c0feb21a6818ce091a6ee"
+      "sha256": "347689cf4d4f7d60e655403bf4e005bc35070f213795e38923dbd50dd4319bd7"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "2ebd1d1392ebd0c571549b047c5608b94ac53a9eec8a7aee0ab3dfc8b9aed6ea"
+      "sha256": "4896f1ad1edd8c32b5faa16e242f29495fa662cf2a0d9de5de6a0280ecca216e"
     },
     "reference/spawn-rule/0001.md": {
       "bytes": 6368,
-      "sha256": "81930e9de3826331c31142483998e7b7f5aefe91928c3726a92a1270a7f4d338"
+      "sha256": "7a5118d6206238728683ce40290d5acf0f8b34180c3e19546e1b53fe43079586"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -73,12 +89,12 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1966,
-      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
+      "bytes": 3622,
+      "sha256": "078e32e0db8db963f2c2af559a96e63f7c0bb22622606a927a893019405b1045"
     },
     "site/reader.json": {
       "bytes": 4995,
-      "sha256": "131b47ba98242c7f835b25ad3a34493c2030544201f2e8472f134bff974f9327"
+      "sha256": "ce7270f6ee32cf0e9856f54c25d8de29ef9049c14c55a2fce778307635f7bfc2"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4995,
@@ -87,6 +103,14 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
       "bytes": 4995,
       "sha256": "131b47ba98242c7f835b25ad3a34493c2030544201f2e8472f134bff974f9327"
+    },
+    "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json": {
+      "bytes": 4995,
+      "sha256": "ce7270f6ee32cf0e9856f54c25d8de29ef9049c14c55a2fce778307635f7bfc2"
+    },
+    "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js": {
+      "bytes": 15795,
+      "sha256": "a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -98,7 +122,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
+  "release_id": "d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
