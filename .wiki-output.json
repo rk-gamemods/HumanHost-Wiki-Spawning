@@ -2,19 +2,19 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "83037f139abdf434d434d0e3d157aff781f9473a01754390ab10c1a5961b5f44"
+      "sha256": "ad612229cefd953ef0ccd2dcad265b8e9f0602f6f98618e06fa372c65d2bce02"
     },
     "reference/index.md": {
       "bytes": 292,
-      "sha256": "1985bc2da0e776a7874a075fb2f6155f9694818f35b17108afbaf55c33cf6f9b"
+      "sha256": "4bd7ee15a16e5c43f9436424004c82749091053e104c0feb21a6818ce091a6ee"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "a118ae4230d8740972794c6e0e0ed51fd5bd72ed4fe2f6b73b8e86d23727bf6e"
+      "sha256": "2ebd1d1392ebd0c571549b047c5608b94ac53a9eec8a7aee0ab3dfc8b9aed6ea"
     },
     "reference/spawn-rule/0001.md": {
       "bytes": 6368,
-      "sha256": "ff750a1cfcc51b9cd4a77004b621dc8269a8dce761e2ac8d647b12f1849de940"
+      "sha256": "81930e9de3826331c31142483998e7b7f5aefe91928c3726a92a1270a7f4d338"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -73,16 +73,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4995,
-      "sha256": "16894dbb683452eb7f92190367fda7aa15b33967b1c1f687ada9d777f7c1b212"
+      "sha256": "131b47ba98242c7f835b25ad3a34493c2030544201f2e8472f134bff974f9327"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4995,
       "sha256": "16894dbb683452eb7f92190367fda7aa15b33967b1c1f687ada9d777f7c1b212"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4995,
+      "sha256": "131b47ba98242c7f835b25ad3a34493c2030544201f2e8472f134bff974f9327"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -94,7 +98,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
