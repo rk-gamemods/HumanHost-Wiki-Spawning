@@ -15,11 +15,13 @@
     "site/data/2ba2cf641d75cfc4381e6ca2814430536068ca78767546e0915668c2c0037029.json",
     "site/data/2d7b6ac06d1668ee33e6b3e256c2b242507f4c107a8842e3a01ba8bc88ad529f.json",
     "site/data/2dbcd1e3976e2938df4235b5ff8ca195cd67efb08158d0f0f22ffad81c28c8de.json",
+    "site/data/2f4af4d78e6f8110a0cf01e34e483c057a6997183058a83817bcb46066fd9e23.json",
     "site/data/2f7bbc2beb6d2feebd7c244b98f457c04ef2b3cad8ad6b542284c45f31aa08cc.json",
     "site/data/31f460d30377043a5ce1e8fd72510ff68f3b9d17d5f6013f118e8d5ac1251c39.json",
     "site/data/3436495806a9fa9966c74499199a6775607c04638721219b4f503d7c86c12b2e.json",
     "site/data/39530fe9d594ec6deb2b630119c5314231e14bfa31172652be97f283ac51254a.json",
     "site/data/3b518f0c9cfad9160474855e64d617e6db4a0467ab91262731f765417d2ca1d4.json",
+    "site/data/3c3cc68013a0e39305b39c53e7bb19bda0ea351a39ba2595b59c51dd66cb4b98.json",
     "site/data/40ec4fda0996c81a15d7e12f5e19fc04a1112cc859a9c2b36dc2575997241de8.json",
     "site/data/438fe1d9b902d1ae8bed2a1176f41623176a9a22ec349843746c986219e6891a.json",
     "site/data/46ee18a729ae814e38f2b78277b0ea57f75ed22c4699fa76af0f0a7cd9e2d58e.json",
@@ -34,6 +36,7 @@
     "site/data/5e54cb55a1c8976fac5577d33f0bf583eb405f6765d5576370d36018122d5c17.json",
     "site/data/625f8f799a0db656a9f17e89debe9bca46ea71343c0616d11841fd1477101b62.json",
     "site/data/62c55490187ac399d13df931e1a6bf0377ad4c4e427d709af4141e82b370744e.json",
+    "site/data/63c922931a52cf59b762d4b4dc6af269586b85badc0a785094e449fcd7096f48.json",
     "site/data/64ebe65d342fd3103ef2d2bf7a02f553cca77952413deae6b162bdc0e87d0346.json",
     "site/data/67d9d8d86edce1deb78b28c5aa0b836f5935ec74c590003c9a0c8f6066ff1e26.json",
     "site/data/68f21f737089f2c755db57c93f6621d295fcf8801b02023820f8a9f453202925.json",
@@ -95,11 +98,13 @@
     "site/data/f7a608c975350742056d142ec336c537901a8c25822077c4e6bfec70b584a223.json",
     "site/data/ff79d0cd6a74c6cdf47cb9590921d22bf45e7a56c4149ca5df37430048eccbcf.json",
     "site/objects/03c247d1628f5f5494b29e807229eee6539b88dfbdaa25e46b822a3688822f94.json",
+    "site/objects/0569d9e011e2b9c797331704d5e13c66bb05e5db2f54f49be6d5f9fea4e93e82.json",
     "site/objects/07ae1c8c8593a7bc2b4efdf2602009e0b9b910a3c7f19f3ff9b485be00e86d5d.json",
     "site/objects/1586ad3ab0d95ec67a94d84d6b38a4f297b5ef2e104a522089d88d7111251420.json",
     "site/objects/276fe800fe6a50437837b73ca8d7660c32fb9758d77093fcd45924a63c6b77f4.json",
     "site/objects/27b651c0f2677259d4211c45f9877315cf757f8e4c97d6947b35d43a53d986e3.json",
     "site/objects/2876550e4d14acfe815f9b81ee2ebd769f96d1d065102c43690dd373d64b0fe1.json",
+    "site/objects/2ee461b3c80e3619920f035e1a776111d86330a57cd9e292fe9926b4c99f6b13.json",
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json",
     "site/objects/407edc3e30a1b77b3373dd5a624eae328f48c4e871ed4f51daeec9934ce49e85.json",
     "site/objects/4f8c6ccee6c4c1a98183f29e2e5552492dc741b07a0aab5f9f9b3d34f4a3d650.json",
@@ -141,6 +146,7 @@
     "site/objects/f8b4c0ff163d4f245dce3129afaa1e904e1652edb464a9a45f935146d747c8b1.json",
     "site/objects/f99402316d21fa11b8f2eafb840229e8a45d734d4b32f18e96144f05ef2464f3.json",
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json",
+    "site/releases/02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
@@ -197,19 +203,19 @@
   "files": {
     "README.md": {
       "bytes": 654,
-      "sha256": "49d7bf46055a57dbb2022d698cc21d0e7b73190e0797134a01143de8ee2d868e"
+      "sha256": "37dc8cf231c09dcbd7dab3b5d9165ae7b147fbd49e6a88901c92cf6e1614c1fb"
     },
     "reference/index.md": {
       "bytes": 302,
-      "sha256": "6d46fe634bcca3790b8a665aa2dc6f438dd352fee29889a084ab5e75ec398fa5"
+      "sha256": "dd480c0a08f858a188b5607f79b9318ea3bbe192f01be23b6017db63b4f41e73"
     },
     "reference/population/0001.md": {
       "bytes": 1211,
-      "sha256": "f43ddd4c7480260200ec94b0b3169057c162fc0011e8ae3276f9907eb64456c4"
+      "sha256": "d00973202a6dcd5de2c9397660f82e57df611cd3b307bd26d5c732899f8b1365"
     },
     "reference/spawn-rule/0001.md": {
-      "bytes": 10940,
-      "sha256": "8d2bbf414e9901ae5d36b683ad78de12d3c429505fbdfde38907426483d71706"
+      "bytes": 6368,
+      "sha256": "150636b0961cbd7a90e09cea27a40f7494f40b4056e890115e496c1ee0087d2a"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -279,6 +285,10 @@
       "bytes": 7276,
       "sha256": "2dbcd1e3976e2938df4235b5ff8ca195cd67efb08158d0f0f22ffad81c28c8de"
     },
+    "site/data/2f4af4d78e6f8110a0cf01e34e483c057a6997183058a83817bcb46066fd9e23.json": {
+      "bytes": 114810,
+      "sha256": "2f4af4d78e6f8110a0cf01e34e483c057a6997183058a83817bcb46066fd9e23"
+    },
     "site/data/2f7bbc2beb6d2feebd7c244b98f457c04ef2b3cad8ad6b542284c45f31aa08cc.json": {
       "bytes": 200,
       "sha256": "2f7bbc2beb6d2feebd7c244b98f457c04ef2b3cad8ad6b542284c45f31aa08cc"
@@ -298,6 +308,10 @@
     "site/data/3b518f0c9cfad9160474855e64d617e6db4a0467ab91262731f765417d2ca1d4.json": {
       "bytes": 215,
       "sha256": "3b518f0c9cfad9160474855e64d617e6db4a0467ab91262731f765417d2ca1d4"
+    },
+    "site/data/3c3cc68013a0e39305b39c53e7bb19bda0ea351a39ba2595b59c51dd66cb4b98.json": {
+      "bytes": 36213,
+      "sha256": "3c3cc68013a0e39305b39c53e7bb19bda0ea351a39ba2595b59c51dd66cb4b98"
     },
     "site/data/40ec4fda0996c81a15d7e12f5e19fc04a1112cc859a9c2b36dc2575997241de8.json": {
       "bytes": 119368,
@@ -354,6 +368,10 @@
     "site/data/62c55490187ac399d13df931e1a6bf0377ad4c4e427d709af4141e82b370744e.json": {
       "bytes": 37274,
       "sha256": "62c55490187ac399d13df931e1a6bf0377ad4c4e427d709af4141e82b370744e"
+    },
+    "site/data/63c922931a52cf59b762d4b4dc6af269586b85badc0a785094e449fcd7096f48.json": {
+      "bytes": 10587,
+      "sha256": "63c922931a52cf59b762d4b4dc6af269586b85badc0a785094e449fcd7096f48"
     },
     "site/data/64ebe65d342fd3103ef2d2bf7a02f553cca77952413deae6b162bdc0e87d0346.json": {
       "bytes": 87364,
@@ -611,6 +629,10 @@
       "bytes": 3171,
       "sha256": "03c247d1628f5f5494b29e807229eee6539b88dfbdaa25e46b822a3688822f94"
     },
+    "site/objects/0569d9e011e2b9c797331704d5e13c66bb05e5db2f54f49be6d5f9fea4e93e82.json": {
+      "bytes": 10030,
+      "sha256": "0569d9e011e2b9c797331704d5e13c66bb05e5db2f54f49be6d5f9fea4e93e82"
+    },
     "site/objects/07ae1c8c8593a7bc2b4efdf2602009e0b9b910a3c7f19f3ff9b485be00e86d5d.json": {
       "bytes": 3170,
       "sha256": "07ae1c8c8593a7bc2b4efdf2602009e0b9b910a3c7f19f3ff9b485be00e86d5d"
@@ -630,6 +652,10 @@
     "site/objects/2876550e4d14acfe815f9b81ee2ebd769f96d1d065102c43690dd373d64b0fe1.json": {
       "bytes": 9181,
       "sha256": "2876550e4d14acfe815f9b81ee2ebd769f96d1d065102c43690dd373d64b0fe1"
+    },
+    "site/objects/2ee461b3c80e3619920f035e1a776111d86330a57cd9e292fe9926b4c99f6b13.json": {
+      "bytes": 656,
+      "sha256": "2ee461b3c80e3619920f035e1a776111d86330a57cd9e292fe9926b4c99f6b13"
     },
     "site/objects/37f87d13f082bdb670f8a7ea9b476c54267b1ff2ae54aaaa9c76f322172b790b.json": {
       "bytes": 2323,
@@ -800,12 +826,16 @@
       "sha256": "42f2ae61a23ab1f3ab2caa770bd416b2130cee7ea9c55ce8ec90b7de8e3e4265"
     },
     "site/reader.json": {
-      "bytes": 22421,
-      "sha256": "46db655ae8cf136461494b2a8bd8f6433ec2c14061501a6dc362458c5905f31c"
+      "bytes": 23245,
+      "sha256": "36b3d7346b2796703633b9e175024b9b63ded9f79326551eb4ee4088835ce059"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6790,
       "sha256": "90b21fd6ca347566207f4280f75a7f123e2c03dae663ee07627fc82aae6ba0a6"
+    },
+    "site/releases/02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031.json": {
+      "bytes": 23245,
+      "sha256": "36b3d7346b2796703633b9e175024b9b63ded9f79326551eb4ee4088835ce059"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4995,
@@ -1017,7 +1047,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "48488e690f58db3bd9824c43bd309a73b128f5417715bf80de79a5ee9a0b00a2",
+  "release_id": "02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031",
   "repository_id": "spawning-populations",
   "schema_version": 1
 }
